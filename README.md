@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Ortiz</h1>
-<h3 align="center">A apasionado por Los Datos en entornos empresariales.</h3>
+<h3 align="center">Apasionado por Los Datos en entornos empresariales.</h3>
 
 - 💬 Ask me about **Data Analitycs**
 
